@@ -37,7 +37,28 @@ Removed noise/outliers
 | **Colour**      | Consistent with dairy standards   |
 | **Turbidity**   | High variation → quality concerns |
 
-3. Predictive Modeling
+3. 📊 Key Features
+
+✔ Quality Prediction (High / Medium / Low) with 99% accuracy
+
+ ✔ Parameter Analytics for pH, Temp, Turbidity, Fat, Odor, Taste
+
+ ✔ Anomaly Alerts for high-risk samples
+
+ ✔ Trend Insights & Correlations
+
+ ✔ Interactive Dashboard for QA decision-making
+
+📈 Insights Gained
+
+• Temperature is the strongest early indicator of quality drop
+
+ • pH stays stable, but turbidity quietly influences grade shifts
+
+ • 41% of samples fall into low quality — a critical improvement area
+
+ • Dashboards help uncover patterns not visible in manual checks
+4. Predictive Modeling
 
 Algorithm: Random Forest Classifier
 
